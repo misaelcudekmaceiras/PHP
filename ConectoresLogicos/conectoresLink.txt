@@ -1,0 +1,2 @@
+https://www.php.net/manual/es/language.operators.logical.php
+https://www.php.net/manual/es/language.operators.precedence.php
